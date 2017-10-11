@@ -1,0 +1,23 @@
+body {
+
+	background-color: #ccc;
+}
+
+
+.maindiv {
+
+	margin: -12px 100px ;
+	font-size: 18px;
+	background-color: #fafafa;
+	padding: 30px 100px;
+}
+
+
+p {
+	line-height: 25px;
+}
+
+
+li {
+	line-height: 25px;
+}
